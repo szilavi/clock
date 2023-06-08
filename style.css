@@ -1,0 +1,21 @@
+@font-face {
+    font-family: cyberverse;
+    src: url(./Cyberverse.otf);
+  }
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    font-family: cyberverse;
+    color: #6666ff;
+    font-size: 5rem;
+}
